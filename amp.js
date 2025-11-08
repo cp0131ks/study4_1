@@ -6,6 +6,17 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 	return ampExtension({
 		primeCats :  [
 			
+			
+			{
+				nameForFeedback : 'A0,  //Will be used in the user feedback 
+				nameForLogging : 'A0', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				       {word : 'A型'}				
+                  
+				]
+
+			}, 
 			{
 				nameForFeedback : 'A1,  //Will be used in the user feedback 
 				nameForLogging : 'A1', //Will be used in the logging
@@ -42,6 +53,16 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				//An array of all media objects for this category.
 				mediaArray : [
 					{word : 'A型はストイックだ'}					
+                  
+				]
+
+			}, 
+			{
+				nameForFeedback : 'O0',  //Will be used in the user feedback 
+				nameForLogging : 'O0', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+					{word : 'O型'}					
                   
 				]
 
@@ -87,6 +108,16 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 
 			},  
 			{
+				nameForFeedback : 'B0',  //Will be used in the user feedback 
+				nameForLogging : 'B0', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+					{word : 'B型'}					
+                  
+				]
+
+			},
+			{
 				nameForFeedback : 'B1',  //Will be used in the user feedback 
 				nameForLogging : 'B1', //Will be used in the logging
 				//An array of all media objects for this category.
@@ -120,6 +151,14 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 				//An array of all media objects for this category.
 				mediaArray : [ 
 					{word : 'B型は我が道を進む'}
+				]
+			},
+			{
+				nameForFeedback : 'AB0',  //Will be used in the user feedback 
+				nameForLogging : 'AB0', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+					{word : 'AB型'}
 				]
 			},
 			{
