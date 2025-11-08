@@ -7,182 +7,154 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 		primeCats :  [
 			
 			{
-				nameForFeedback : 'Man_1_B',  //Will be used in the user feedback 
-				nameForLogging : 'Man_1_B', //Will be used in the logging
+				nameForFeedback : 'A1,  //Will be used in the user feedback 
+				nameForLogging : 'A1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				       {word : '男性は力が強い'}				
+				       {word : 'A型は真面目だ'}				
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_2_B',  //Will be used in the user feedback 
-				nameForLogging : 'Man_2_B', //Will be used in the logging
+				nameForFeedback : 'A2',  //Will be used in the user feedback 
+				nameForLogging : 'A2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '男性は筋肉がある'}				
+					{word : 'A型は几帳面だ'}				
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_3_B',  //Will be used in the user feedback 
-				nameForLogging : 'Man_3_B', //Will be used in the logging
+				nameForFeedback : 'A3',  //Will be used in the user feedback 
+				nameForLogging : 'A3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は体が大きい'}
+					{word : 'A型は努力家だ'}
 
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_4_B',  //Will be used in the user feedback 
-				nameForLogging : 'Man_4_B', //Will be used in the logging
+				nameForFeedback : 'A4',  //Will be used in the user feedback 
+				nameForLogging : 'A4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は力がある'}					
+					{word : 'A型はストイックだ'}					
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_5_B',  //Will be used in the user feedback 
-				nameForLogging : 'Man_5_B', //Will be used in the logging
+				nameForFeedback : 'O1',  //Will be used in the user feedback 
+				nameForLogging : 'O1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は身長が高い'}					
+					{word : 'O型は優しい'}					
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_6_C',  //Will be used in the user feedback 
-				nameForLogging : 'Man_6_C', //Will be used in the logging
+				nameForFeedback : 'O2',  //Will be used in the user feedback 
+				nameForLogging : 'O2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は足がクサい'}					
+					{word : 'O型は社交的だ'}					
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_7_C',  //Will be used in the user feedback 
-				nameForLogging : 'Man_7_C', //Will be used in the logging
+				nameForFeedback : 'O3',  //Will be used in the user feedback 
+				nameForLogging : 'O3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は虫好きである'}					
+					{word : 'O型は穏やかだ'}					
                   
 				]
 
 			}, 
 			{
-				nameForFeedback : 'Man_8_C',  //Will be used in the user feedback 
-				nameForLogging : 'Man_8_C', //Will be used in the logging
+				nameForFeedback : 'O4',  //Will be used in the user feedback 
+				nameForLogging : 'O4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は見栄っ張り'}					
+					{word : 'O型はおおらかだ'}					
                   
 				]
 
 			},  
 			{
-				nameForFeedback : 'Man_9_C',  //Will be used in the user feedback 
-				nameForLogging : 'Man_9_C', //Will be used in the logging
+				nameForFeedback : 'B1',  //Will be used in the user feedback 
+				nameForLogging : 'B1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は浮気をする'}					
+					{word : 'B型は自己中心的だ'}					
                   
 				]
 
 			},  
 			{
-				nameForFeedback : 'Man_10_C',  //Will be used in the user feedback 
-				nameForLogging : 'Man_10_C', //Will be used in the logging
+				nameForFeedback : 'B2',  //Will be used in the user feedback 
+				nameForLogging : 'B2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '男性は不器用である'}					
+					{word : 'B型はマイペースだ'}					
                   
 				]
 
 			},  
 			{
-				nameForFeedback : 'Woman_1_B',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_1_B', //Will be used in the logging
+				nameForFeedback : 'B3',  //Will be used in the user feedback 
+				nameForLogging : 'B3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {word : '女性は力が弱い'}
+				    {word : 'B型は大雑把だ'}
 				]
 			},
 			{
-				nameForFeedback : 'Woman_2_B',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_2_B', //Will be used in the logging
+				nameForFeedback : 'B4',  //Will be used in the user feedback 
+				nameForLogging : 'B4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は美意識が高い'}
+					{word : 'B型は我が道を進む'}
 				]
 			},
 			{
-				nameForFeedback : 'Woman_3_B',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_3_B', //Will be used in the logging
+				nameForFeedback : 'AB1',  //Will be used in the user feedback 
+				nameForLogging : 'AB1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は虫嫌い'}
+					{word : 'AB型は天才肌だ'}
 				]
 			},
 			{
-				nameForFeedback : 'Woman_4_B',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_4_B', //Will be used in the logging
+				nameForFeedback : 'AB2',  //Will be used in the user feedback 
+				nameForLogging : 'AB2', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性はやわらかい'}
+					{word : 'AB型は不思議ちゃんだ'}
 				]
 			},
 			{
-				nameForFeedback : 'Woman_5_B',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_5_B', //Will be used in the logging
+				nameForFeedback : 'AB3',  //Will be used in the user feedback 
+				nameForLogging : 'AB3', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-					{word : '女性は体が小さい'}
+					{word : 'AB型は二重人格だ'}
 				]
 			},
 			{
-				nameForFeedback : 'Woman_6_C',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_6_C', //Will be used in the logging
+				nameForFeedback : 'AB4',  //Will be used in the user feedback 
+				nameForLogging : 'AB4', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [ 
-					{word : '女性は裏表が激しい'}
+					{word : 'AB型は裏表がある'}
 				]
 			},
-			{
-				nameForFeedback : 'Woman_7_C',  //Will be used in the user feedback 
-				nameForLogging : 'Woman_7_C', //Will be used in the logging
-				//An array of all media objects for this category.
-				mediaArray : [
-					{word : '女性は運転が嫌い'}
-				]
-			},
-			{	nameForFeedback : 'Woman_8_C',  //Will be use
-				nameForLogging : 'Woman_8_C', //Will be used in the logging
-				//An array of all media objects for this category.
-				mediaArray : [
-					{word : '女性は妄想癖がある'}
-				]
-			},
-			{	nameForFeedback : 'Woman_9_C',  //Will be use
-				nameForLogging : 'Woman_9_C', //Will be used in the logging
-				//An array of all media objects for this category.
-				mediaArray : [
-					{word : '女性は群れる'}
-				]
-			},
-			{	nameForFeedback : 'Woman_10_C',  //Will be use
-				nameForLogging : 'Woman_10_C', //Will be used in the logging
-				//An array of all media objects for this category.
-				mediaArray : [
-					{word : '女性はうるさい'}
-				]
-			},
+			
 			{
 				nameForFeedback : 'Neutral_1',  //Will be used in the user feedback 
 				nameForLogging : 'Neutral_1', //Will be used in the logging
@@ -398,7 +370,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 		],
 
 		base_url : {//Where are your images at?
-			image : 'https://cp0131ks.github.io/study3/image'
+			image : 'https://cp0131ks.github.io/study4_1/image'
 		}
 	});
 });
