@@ -8,7 +8,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 			
 			
 			{
-				nameForFeedback : 'A0,  //Will be used in the user feedback 
+				nameForFeedback : 'A0',  //Will be used in the user feedback 
 				nameForLogging : 'A0', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
@@ -18,7 +18,7 @@ define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APICo
 
 			}, 
 			{
-				nameForFeedback : 'A1,  //Will be used in the user feedback 
+				nameForFeedback : 'A1',  //Will be used in the user feedback 
 				nameForLogging : 'A1', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
