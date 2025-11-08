@@ -1,4 +1,4 @@
-define(['pipAPI', 'https://cp0131ks.github.io/study3/qamp.js'], function(APIConstructor, ampExtension){
+define(['pipAPI', 'https://cp0131ks.github.io/study4_1/qamp.js'], function(APIConstructor, ampExtension){
 
 	var API = new APIConstructor();
 	
